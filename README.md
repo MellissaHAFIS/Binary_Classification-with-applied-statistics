@@ -1,6 +1,6 @@
 # Binary Classification Project
 
-This repository contains a project on binary classification, where we aim to compare the performance of different predictors in a classification task. This project was completed as a collaborative effort between team members Idrissa DICKO, Alois VINCENT, and Me.
+This repository contains a project on binary classification, where we aim to compare the performance of different predictors in a classification task. This project was completed as a collaborative effort between team members Idrissa DICKO, Alois VINCENT, and Me Mellissa HAFIS.
 
 ## Project Overview
 
@@ -39,9 +39,6 @@ Through our analysis, we found that:
 - **PCA-Based Model** showed variable performance depending on the threshold chosen, and was less effective compared to logistic regression.
 - **No-Skill Model** served as a baseline and provided a point of reference to gauge model improvements.
 
-## Team Acknowledgments
-
-This project was a team effort, and we thank all members (A, B, and [Your Name]) for their contributions to the analysis, coding, and reporting aspects of this project.
 
 ## Getting Started
 
